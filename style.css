@@ -263,6 +263,14 @@ body {
   font-weight: 300;
   top: -70px;
 }
+.footer {
+  height: 10vh;
+  background-color: var(--black-background);
+  border-top: 5px solid var(--black);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 @media screen and (max-width: 630px) {
   .container-btn {
     justify-content: center;
