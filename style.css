@@ -319,7 +319,7 @@ body {
 }
 @media screen and (max-width:440){
   .footer{
-    height:10vh;}
+    height:5vh;}
 }
 .footer__copyright {
   text-align: center;
