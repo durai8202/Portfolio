@@ -237,6 +237,7 @@ body {
 @media screen and (max-width: 1000px) {
   .projects__image-project {
     width: 100%;
+    display:none;
   }
 }
 
