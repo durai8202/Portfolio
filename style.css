@@ -287,6 +287,11 @@ body {
   align-items: center;
   color: black;
 }
+@media screen and (max-width:440px){
+  .contact {
+    height:20vh;
+  }
+}
 .contact__title {
   font-size: 56px;
   margin: 0;
