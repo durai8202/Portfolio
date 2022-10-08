@@ -247,20 +247,6 @@ body {
 
   } 
 }
-
-.project-tile__container-link {
-  display: flex;
-}
-.project-tile__link {
-  height: 32px;
-  width: 32px;
-  cursor: pointer;
-  margin-left: auto;
-}
-.project-tile__link-icon {
-  color: white;
-  width: 100%;
-}
 .container-btn {
   position: relative;
   display: flex;
