@@ -312,6 +312,10 @@ body {
   justify-content: center;
   align-items: center;
 }
+@media screen and (max-width:440){
+  .footer{
+    height:10vh;}
+}
 .footer__copyright {
   text-align: center;
   color: #000000;
