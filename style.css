@@ -305,7 +305,7 @@ body {
   }
 }
 .footer {
-  height: 10vh;
+  height: 20vh;
   background-color: var(--black-background);
   border-top: 5px solid var(--black);
   display: flex;
